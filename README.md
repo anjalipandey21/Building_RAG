@@ -34,7 +34,7 @@ This project demonstrates a full implementation of a Retrieval-Augmented Generat
 
 ---
 
-🤖 MGS636 Lab 5 – Building an Agentic AI & Web App
+🤖 MGS636 Lab 5 – Building an Agentic AI & Web App.
 
 📌 Overview  
 This lab expands upon the RAG system by implementing an **Agentic AI** that can reason step-by-step using tools like math functions and web search. It also introduces a web interface using **Streamlit** to make the agent accessible to end-users.
