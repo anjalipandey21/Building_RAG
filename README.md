@@ -11,7 +11,7 @@ This project demonstrates a full implementation of a Retrieval-Augmented Generat
 
 🧪 Phase 1: Open WebUI – GUI-Based RAG Testing
 
-| Test Description            | Highlights                                                  |
+| Text Description            | Highlights                                                  |
 |-----------------------------|-------------------------------------------------------------|
 | 1. Query Without Knowledge Base | Basic LLM query — vague/generic answer                  |
 | 2. Query With Syllabus KB       | Used #MGS636 Syllabus, generated specific, document-grounded answer |
